@@ -1,0 +1,23 @@
+.panda-bg-danger{
+    background-color: #FCEAE8;
+}
+
+.product-bg-a{
+    background-color: #1a1746;
+}
+
+.product-bg-b{
+    background-color: rgb(3, 165, 103);
+}
+
+.product-bg-c{
+    background-color: #264488;
+}
+
+.btn-a{
+    background-image: linear-gradient(to bottom, #FF569A, #FF1772);
+}
+
+#subscribe.container{
+    height: 300px;
+}
